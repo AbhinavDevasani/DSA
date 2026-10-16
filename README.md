@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AbhinavDevasani/DSA/tree/master/0045-jump-game-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhinavDevasani/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
@@ -30,5 +31,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AbhinavDevasani/DSA/tree/master/0045-jump-game-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
