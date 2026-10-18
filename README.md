@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AbhinavDevasani/DSA/tree/master/0045-jump-game-ii) |
+| [0904-fruit-into-baskets](https://github.com/AbhinavDevasani/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhinavDevasani/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhinavDevasani/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavDevasani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/AbhinavDevasani/DSA/tree/master/0904-fruit-into-baskets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhinavDevasani/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavDevasani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/AbhinavDevasani/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhinavDevasani/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
