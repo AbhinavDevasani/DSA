@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AbhinavDevasani/DSA/tree/master/0007-reverse-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhinavDevasani/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhinavDevasani/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2413-smallest-even-multiple](https://github.com/AbhinavDevasani/DSA/tree/master/2413-smallest-even-multiple) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AbhinavDevasani/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AbhinavDevasani/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/AbhinavDevasani/DSA/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
