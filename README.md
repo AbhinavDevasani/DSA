@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AbhinavDevasani/DSA/tree/master/0045-jump-game-ii) |
+| [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/AbhinavDevasani/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhinavDevasani/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhinavDevasani/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AbhinavDevasani/DSA/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhinavDevasani/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
