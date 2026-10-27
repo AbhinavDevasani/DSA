@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AbhinavDevasani/DSA/tree/master/0045-jump-game-ii) |
+| [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [0260-single-number-iii](https://github.com/AbhinavDevasani/DSA/tree/master/0260-single-number-iii) |
 | [0904-fruit-into-baskets](https://github.com/AbhinavDevasani/DSA/tree/master/0904-fruit-into-baskets) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AbhinavDevasani/DSA/tree/master/0141-linked-list-cycle) |
 ## Stack
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhinavDevasani/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
@@ -115,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/AbhinavDevasani/DSA/tree/master/2413-smallest-even-multiple) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
