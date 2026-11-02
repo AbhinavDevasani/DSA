@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AbhinavDevasani/DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/AbhinavDevasani/DSA/tree/master/0260-single-number-iii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AbhinavDevasani/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Number Theory
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AbhinavDevasani/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
