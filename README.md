@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhinavDevasani/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhinavDevasani/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhinavDevasani/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhinavDevasani/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhinavDevasani/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhinavDevasani/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AbhinavDevasani/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AbhinavDevasani/DSA/tree/master/0141-linked-list-cycle) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhinavDevasani/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhinavDevasani/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhinavDevasani/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhinavDevasani/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhinavDevasani/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhinavDevasani/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
