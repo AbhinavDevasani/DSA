@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0260-single-number-iii](https://github.com/AbhinavDevasani/DSA/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/AbhinavDevasani/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/AbhinavDevasani/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhinavDevasani/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhinavDevasani/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavDevasani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/AbhinavDevasani/DSA/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhinavDevasani/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/AbhinavDevasani/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/AbhinavDevasani/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhinavDevasani/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhinavDevasani/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -71,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/AbhinavDevasani/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbhinavDevasani/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/AbhinavDevasani/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/AbhinavDevasani/DSA/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
