@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AbhinavDevasani/DSA/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/AbhinavDevasani/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavDevasani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/AbhinavDevasani/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AbhinavDevasani/DSA/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhinavDevasani/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AbhinavDevasani/DSA/tree/master/0496-next-greater-element-i) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavDevasani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AbhinavDevasani/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/AbhinavDevasani/DSA/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhinavDevasani/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavDevasani/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AbhinavDevasani/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhinavDevasani/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
