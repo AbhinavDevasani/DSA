@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AbhinavDevasani/DSA/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhinavDevasani/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavDevasani/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AbhinavDevasani/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhinavDevasani/DSA/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AbhinavDevasani/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
