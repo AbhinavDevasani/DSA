@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AbhinavDevasani/DSA/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/AbhinavDevasani/DSA/tree/master/0050-powx-n) |
 | [0507-perfect-number](https://github.com/AbhinavDevasani/DSA/tree/master/0507-perfect-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhinavDevasani/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhinavDevasani/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/AbhinavDevasani/DSA/tree/master/3115-maximum-prime-difference) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AbhinavDevasani/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
