@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhinavDevasani/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhinavDevasani/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/AbhinavDevasani/DSA/tree/master/2413-smallest-even-multiple) |
+| [3115-maximum-prime-difference](https://github.com/AbhinavDevasani/DSA/tree/master/3115-maximum-prime-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AbhinavDevasani/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhinavDevasani/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhinavDevasani/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhinavDevasani/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3115-maximum-prime-difference](https://github.com/AbhinavDevasani/DSA/tree/master/3115-maximum-prime-difference) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AbhinavDevasani/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/AbhinavDevasani/DSA/tree/master/2413-smallest-even-multiple) |
+| [3115-maximum-prime-difference](https://github.com/AbhinavDevasani/DSA/tree/master/3115-maximum-prime-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AbhinavDevasani/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/AbhinavDevasani/DSA/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
