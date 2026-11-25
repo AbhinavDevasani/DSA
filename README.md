@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AbhinavDevasani/DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/AbhinavDevasani/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/AbhinavDevasani/DSA/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/AbhinavDevasani/DSA/tree/master/0507-perfect-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhinavDevasani/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhinavDevasani/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AbhinavDevasani/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AbhinavDevasani/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AbhinavDevasani/DSA/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/AbhinavDevasani/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AbhinavDevasani/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavDevasani/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
