@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/AbhinavDevasani/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2413-smallest-even-multiple](https://github.com/AbhinavDevasani/DSA/tree/master/2413-smallest-even-multiple) |
 | [3115-maximum-prime-difference](https://github.com/AbhinavDevasani/DSA/tree/master/3115-maximum-prime-difference) |
+| [3360-stone-removal-game](https://github.com/AbhinavDevasani/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AbhinavDevasani/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AbhinavDevasani/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AbhinavDevasani/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/AbhinavDevasani/DSA/tree/master/3360-stone-removal-game) |
 ## Primality Test
 |  |
 | ------- |
